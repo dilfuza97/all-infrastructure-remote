@@ -70,3 +70,7 @@ resource "aws_instance" "vault" {
     Name = "Vault"
   }
 }
+      }
+    }
+  }
+}
