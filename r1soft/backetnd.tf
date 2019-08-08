@@ -1,7 +1,7 @@
 form {
     backend "s3" {
-        region  =  "us-east-1"
-        bucket = "remote-exec-farrukh"
+        region  =  "eu-west-1"
+        bucket = "dilfuza-jenkins"
         key = "remote.state"
     }
 }
