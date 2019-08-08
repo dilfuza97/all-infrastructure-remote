@@ -73,4 +73,4 @@ resource "aws_instance" "vault" {
       }
     }
   }
-}
+
