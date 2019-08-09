@@ -1,7 +1,3 @@
-provider "aws" {
-  region = "${var.region}"
-}
-
 resource "aws_instance" "gitlab" {
   instance_type               = "${var.instance_type}"
   ami                         = "${var.ami}"
