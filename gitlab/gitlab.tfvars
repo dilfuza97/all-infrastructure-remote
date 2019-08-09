@@ -10,6 +10,6 @@ zone_id                     = "Z1FGNR3J3B0VM8"
 record                      = "vault"
 key_name                    = "mac"
 vpc_id                      = "vpc-34fbf453"
-ssh_key_location             = "/.ssh/id_rsa.pub" 
+ssh_key_location             = "/root/.ssh/id_rsa"
 region                      = "us-west-1"
 
